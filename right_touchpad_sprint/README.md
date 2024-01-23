@@ -40,4 +40,4 @@
 |     Grab     | R Grip Button     | The grab and interact button for world interactables                                    |
 |     Turn     | R Joystick X Axis | If you have snap/smooth turning enabled, this will determine the direction to rotate in |
 |    Pivot     | R Joystick        | Spectator camera pivoting and build mode prop rotating                                  |
-|    Sprint    | L Touchpad Press  | Must either be held down or toggles based on the configuration that is used             |
+|    Sprint    | R Touchpad Touch  | Must either be held down or toggles based on the configuration that is used             |
